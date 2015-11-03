@@ -12,7 +12,7 @@ namespace SampleGitApp
         {
             Console.WriteLine("Sample Git Application...");
             Console.WriteLine("Second change..");
-            
+            Console.WriteLine("Undo changes from solution");
             //Edited using git-hub site
             Console.ReadLine();
 
