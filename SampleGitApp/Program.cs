@@ -12,7 +12,7 @@ namespace SampleGitApp
         {
             Console.WriteLine("Sample Git Application...");
             Console.WriteLine("Second change..");
-            Console.WriteLine("Cgange from Git-Hub");
+            
             //Edited using git-hub site
             Console.ReadLine();
 
