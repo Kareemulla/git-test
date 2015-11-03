@@ -12,6 +12,7 @@ namespace SampleGitApp
         {
             Console.WriteLine("Sample Git Application...");
             Console.WriteLine("Second change..");
+            Console.ReadLine();
         }
     }
 }
